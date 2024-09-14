@@ -51,9 +51,13 @@ while True:
 ## OUPUT - ARP
 
 client:
+
+
 ![image](https://github.com/user-attachments/assets/89fecfc4-d3e0-404b-a461-84bcef337302)
 
 server:
+
+
 ![image](https://github.com/user-attachments/assets/69b0dc9b-1136-43ef-8cf6-73c8e1d9a896)
 
 ## PROGRAM - RARP
@@ -92,6 +96,8 @@ while True:
 ## OUPUT -RARP
 
 client
+
+
 ![image](https://github.com/user-attachments/assets/88a96846-1a85-4bb8-a76d-9cd994b12101)
 
 
